@@ -4,8 +4,8 @@
 
 # Módulos
 
-- [Primeiros passos](#)
-- [Tratamento de dados e operações ariméticas](#)
+- [Primeiros passos](https://github.com/andre-jnr/exercicios-js/tree/main/01%20-%20primeiros%20comandos)
+- [Tratamento de dados e operações aritméticas](#)
 - [Módulos / bibliotecas](#)
 - [Manipulação de textos](#)
 - [Condicionais](#)
@@ -20,21 +20,19 @@
 
 # Exercícios
 
-> Quando o professor usava uma lógica diferente da minha, eu fazia outra versão do programa. Todas as versões estão disponíveis nesse repositório.
+- [Exercício 01:](https://github.com/andre-jnr/exercicios-js/tree/main/01%20-%20primeiros%20comandos/001-Helllo_word) Faça um programa dizer "hello word!".
 
-- [Exercício 01:](#) Faça um programa dizer "hello word!".
+- [Exercício 002:](https://github.com/andre-jnr/exercicios-js/tree/main/01%20-%20primeiros%20comandos/002-Boas_vindas) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
-- [Exercício 002:](#) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- [Exercício 003:](https://github.com/andre-jnr/exercicios-js/tree/main/01%20-%20primeiros%20comandos/003-soma) Crie um programa que leia dois números e mostre a soma entre eles.
 
-- [Exercício 003:](#) Crie um programa que leia dois números e mostre a soma entre eles.
-
-- [Exercício 004:](#) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
+- [Exercício 004:](https://github.com/andre-jnr/exercicios-js/tree/main/01%20-%20primeiros%20comandos/004-tipo_primitivo) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
 
 - [Exercício 005:](#) Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 - [Exercício 006:](#) Crie um algoritmo que leia um número e mostre seu dobro, triplo e raiz quadrada.
 
-- [Exercício 007:](#) Desenvolva um programa que leia as duas notas de um aluno, calcule emostre a sua média.
+- [Exercício 007:](#) Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 - [Exercício 008:](#) Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
@@ -46,7 +44,7 @@
 
 - [Exercício 011:](#) Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la sabendo que cada litro de tinta, pinta uma área de 2m².
 
-- [Exercício 012:](#) Faça um algoritmo que leia o preço de um produto e mostre seu novo preo, com 5% de desconto.
+- [Exercício 012:](#) Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 - [Exercício 013:](#) Faça um algoritmo que leia o salário de um funcionária e mostre seu novo salário, com 15% de aumento.
 
@@ -102,7 +100,7 @@
 
 - [Exercício 036:](#) Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
-- [Exercício 037:](#) Escreva um programa em JavaScript que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.Escreva um programa em JavaScript que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+- [Exercício 037:](#) Escreva um programa em JavaScript que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal. Escreva um programa em JavaScript que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
 
 - [Exercício 038:](#) Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
 
@@ -320,7 +318,7 @@
 
   - O maior valor da segunda linha.
 
-- [Exercício 088:](#) Faça um programa que ajude um jogador da MEGA SENA a criar palpites.O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+- [Exercício 088:](#) Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
 
 - [Exercício 089:](#) Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
@@ -390,7 +388,7 @@
 
 - [Exercício 108:](#) Adapte o código do desafio #107, criando uma função adicional chamada moeda() que consiga mostrar os números como um valor monetário formatado.
 
-- [Exercício 109:](#) Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
+- [Exercício 109:](#) Modifique as funções que foram criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
 
 - [Exercício 110:](#) Adicione o módulo moeda.py criado nos desafios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
