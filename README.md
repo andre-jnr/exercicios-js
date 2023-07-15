@@ -40,7 +40,7 @@
 
 - [Exercício 010:](#) Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
-  - Considere que US$1,00 = R$3,27
+  - Considere que US$1,00 = R$4,79
 
 - [Exercício 011:](#) Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la sabendo que cada litro de tinta, pinta uma área de 2m².
 
