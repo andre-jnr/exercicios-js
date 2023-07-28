@@ -1,7 +1,3 @@
-/**
- * Faça um programa que leia um número inteiro e
- * mostre na tela a sua tabuada.
- */
 do {
   var numero = Number(prompt('Digite um número inteiro'))
 
